@@ -1,3 +1,4 @@
+import React from "react";
 import Firsttabsection from "./Firsttabsection";
 import Fivethtabsection from "./fivethtabsection";
 import Fourthtabsection from "./Fourthtabsection";
