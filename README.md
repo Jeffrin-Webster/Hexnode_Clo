@@ -55,3 +55,9 @@ I’ve ensured that the components are flexible and can be reused in different p
 4. **Start the Development Server:**
    npm start or yarn start
 
+   The project will run on http://localhost:3000 by default.
+
+   ## Demo Link
+
+   You can view the live demo of the project here: https://jeffrinwebster-hexnode.netlify.app/
+
