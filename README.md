@@ -30,7 +30,7 @@ I’ve ensured that the components are flexible and can be reused in different p
 ## Screenshots
 
 ### Tab Component
-![Tab Component]('/Users/jeffrinjwebster/Desktop/Screenshot 2025-04-28 at 1.01.22 PM.png')
+![Tab Component](assets/ss1.png)
 
 ### Carousel Component
 ![Carousel Component](path-to-screenshot2.png)
