@@ -29,7 +29,7 @@ I’ve ensured that the components are flexible and can be reused in different p
 
 ## Screenshots
 
-!(src/assets/Screenshots/ss1.png)
+(src/assets/Screenshots/ss1.png)
 
 ### Carousel Component
 ![Carousel Component](path-to-screenshot2.png)
