@@ -29,16 +29,15 @@ I’ve ensured that the components are flexible and can be reused in different p
 
 ## Screenshots
 
-(src/assets/Screenshots/ss1.png)
+![Image](src/assets/Screenshots/ss1.png)
 
-### Carousel Component
-![Carousel Component](path-to-screenshot2.png)
+![Image](src/assets/Screenshots/ss2.png)
 
-### Input Component
-![Input Component](path-to-screenshot3.png)
+![Image](src/assets/Screenshots/ss3.png)
 
-### Card Component
-![Card Component](path-to-screenshot4.png)
+![Image](src/assets/Screenshots/ss4.png)
+
+![Image](src/assets/Screenshots/ss5.png)
 
 ## How to Run the Project
 
