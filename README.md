@@ -1,4 +1,4 @@
-# Project Name
+# Hexnode Clone
 
 ## Features Implemented
 
